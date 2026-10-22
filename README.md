@@ -1,6 +1,6 @@
 # OpenBallistics
 
-> **Superseded.** This repository is no longer developed and will be archived. Its successor is [OpenReloading/Ballistics](https://github.com/OpenReloading/Ballistics): please use that for the database, the simulations and new issues.
+> **Superseded.** This repository is no longer developed and will be archived. Its successor is [OpenReloading/Ballistics](https://github.com/OpenReloading/Ballistics): please use that for the database, the simulations and new issues. The successor runs as a site at <https://openreloading.github.io/Ballistics/>.
 
 OpenBallistics is an open database of cartridges, bullets, targets and more. The website lets you browse dimensions and drawings, keep your own records, and explore tools under Preview.
 
