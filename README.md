@@ -1,5 +1,7 @@
 # OpenBallistics
 
+> **Superseded.** This repository is no longer developed and will be archived. Its successor is [OpenReloading/Ballistics](https://github.com/OpenReloading/Ballistics): please use that for the database, the simulations and new issues.
+
 OpenBallistics is an open database of cartridges, bullets, targets and more. The website lets you browse dimensions and drawings, keep your own records, and explore tools under Preview.
 
 Cartridge, bullet and target records are stored as JSON. The target catalogue currently covers BDS and DSB targets.
